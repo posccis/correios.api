@@ -1,0 +1,3 @@
+[submodule "correios.Libs"]
+	path = correios.Libs
+	url = https://github.com/posccis/correios.Libs.git

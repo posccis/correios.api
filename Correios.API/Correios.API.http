@@ -1,0 +1,6 @@
+@Correios.API_HostAddress = http://localhost:5047
+
+GET {{Correios.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
